@@ -1,0 +1,1 @@
+# Inspiron-7520-OpenCore
